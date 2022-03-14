@@ -15,17 +15,21 @@ The primary goal was to complete the assignment, that's all and that's why it is
 A detailed description of frames:
 
 **1.MainPage**
+
 In this frame, there are two buttons **Customer** and **Employee** with the date mentioned at the left bottom of the frame.
 Also, there is an exit button that will close the program on click.
 
 **2.Customer**
+
 In this frame, there are 3 text fields, a radio button, three combo boxes, two buttons, and a date on the bottom right of the frame.
 Also 'Done' button will generate a popup and **will generate a file named InvoiceHistory.txt**. 
 
 **3.Employee**
+
 In this frame, there are 3 text fields, a text area, a combo box, a checkbox, and two buttons. The "Add" button will also generate a popup.
 
 **4.LoginPage**
+
 On this page one text field and one password field and a button will lead to an employee frame.
 
 
