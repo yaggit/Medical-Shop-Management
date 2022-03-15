@@ -4,7 +4,7 @@
 This project is part of the assignment given by the college.
 This small assignment is made in NetBeans by means of the Drag and Drop method.
 
-The primary goal was to complete the assignment, that's all and that's why it is a small project(assignment).
+**The primary goal was to complete the assignment, that's all and that's why it is a small project(assignment).**
 
 **Contains total 4 frames**
 **1. MainPage**
